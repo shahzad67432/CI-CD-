@@ -16,7 +16,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by Editing ok!!! <code>app/page.tsx</code>
+            (shahzad)Get started by Editing ok!!! <code>app/page.tsx</code>
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
